@@ -14,10 +14,6 @@ Técnico Superior en Desarrollo de Aplicaciones Multiplataforma
 (I.E.S. Augustobriga - Ilerna) 
 -Presente
 
-Certificado Profesional Desarrollador Full-Stack
-(Codecademy) 
--Presente
-
 Graduado en Psicología
 (Universidad Nacional de Educación a Distancia)
 -Finalizado en 2021
